@@ -4,7 +4,7 @@
 I'm a Computer Science student
 
 
-** Currently Exploring**
+**Currently Exploring**
 *Exploring cloud infrastructure and networking.
 
 
